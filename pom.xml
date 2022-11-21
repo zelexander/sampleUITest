@@ -14,7 +14,6 @@
         <surefire-plugin.version>2.22.2</surefire-plugin.version>
         <maven.compiler.source>12</maven.compiler.source>
         <maven.compiler.target>12</maven.compiler.target>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <suiteXml>testng.xml</suiteXml>
 <!--        <cucumber.version>6.10.4</cucumber.version>-->

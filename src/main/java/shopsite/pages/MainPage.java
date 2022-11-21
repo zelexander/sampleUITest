@@ -4,7 +4,6 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 
-
 public class MainPage extends AbstractPage{
 
     public MainPage(WebDriver driver) {
