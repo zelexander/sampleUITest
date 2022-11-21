@@ -5,7 +5,7 @@ import tests.base.BaseTest;
 
 import static service.Values.Urls.SITE_START_PAGE;
 
-public class СartCheckerTest extends BaseTest {
+public class CartCheckerTest extends BaseTest {
 
     @Test
     public void cartCounterCheck(){

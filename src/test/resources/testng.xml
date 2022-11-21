@@ -3,7 +3,7 @@
 <suite name="All Tests">
     <test name="/Users/zelexander/IdeaProjects/sampleUITest">
         <classes>
-            <class name="tests.shoppingUI.СartCheckerTest">
+            <class name="tests.shoppingUI.CartCheckerTest">
 <!--                    <methods>-->
 <!--                        <include name="cartCounterCheck"/>-->
 <!--                    </methods>-->
